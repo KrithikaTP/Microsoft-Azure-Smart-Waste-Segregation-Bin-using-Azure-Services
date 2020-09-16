@@ -1,0 +1,16 @@
+import RPi.GPIO as GPIO
+import SimpleMFRC522.SimpleMFRC522
+
+reader = SiSimpleMFRC522()
+
+print('Looking for cards')
+print('Press ctrl+c to stop.')
+
+try:
+	id,text=reader.read()
+	print(id)
+	print(text)
+finally:
+	GPIO.cleanup()
+
+
