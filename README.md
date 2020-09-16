@@ -88,7 +88,7 @@ binFullAlert = "true"
 
 ## How to Run Bin Part Using Raspberry Pi
 ### Prerequisite
-* Clone the bin folder in Raspberry Pi
+* Clone the Waste_Segregation_Raspberry_Pi folder in Raspberry Pi
 * Install the following packages in Raspberry Pi.
 * Launch the terminal and install 
 ```sh
