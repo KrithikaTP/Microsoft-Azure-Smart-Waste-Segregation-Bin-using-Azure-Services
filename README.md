@@ -43,6 +43,9 @@ Go through this link to register the raspberry pi [How to register a new device 
 ### 2) Training the model using Azure Custom Vision
 Create a new Azure Cognitive Service in the Azure Portal and go to the Quick Start(in navigation pane) and click Custom Vision Portal.
 This will take you to the Azure Custom Vision Portal.
+Download the dataset from the following google drive link(as files above 100 mb could not be uploaded).
+
+[Dataset](https://drive.google.com/drive/folders/1Hn8UzwQc3IgISwn0rDGLSNIjX7SQbuH8?usp=sharing)
 Add the images from the dataset folder as per tag and train it in the Custom Vison Potal as mentioned in the below link
 
 [Train a model in Custom Vision](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/getting-started-build-a-classifier)
