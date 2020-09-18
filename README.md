@@ -91,6 +91,7 @@ binFullAlert = "true"
 ### 4) Connect the V2 Camera in the Camera port of Raspberry Pi as shown below
 ![](https://www.allaboutcircuits.com/uploads/articles/raspberry-pi-camera-2.png?v=1470886330073)
 ### 5) Connect the Metal sensor in place of the LED in Raspberry Pi as shown below 
+The positive and negative of the metal sensor should go exact same as the led's positive and negative.
 ![](https://cdn.shopify.com/s/files/1/0176/3274/files/LEDs-BB400-1LED_bb_grande.png?6398700510979146820)
 ## How to Run Bin Part Using Raspberry Pi
 ### Prerequisite
