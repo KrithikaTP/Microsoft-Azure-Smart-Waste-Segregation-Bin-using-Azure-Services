@@ -99,7 +99,7 @@ The positive and negative of the metal sensor should go exact same as the led's 
 * Install the following packages in Raspberry Pi.
 * Launch the terminal and install 
 ```sh
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 ### Set your AZURE Credentials 
 * Open the config.py file and change the following details from your Azure Portal for Cosmos DB.
